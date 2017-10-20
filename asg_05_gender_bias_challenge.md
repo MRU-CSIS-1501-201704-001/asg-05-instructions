@@ -27,7 +27,7 @@ _Assuming that the people follow this rule without question, what effect do you 
 
 Example (doesn't show correct numbers, though!):  
 
-    Run#  M : F  
+    Run# M : F  
        1 1 : 2.00132  
        2 1 : 1.99312
        ... etc
