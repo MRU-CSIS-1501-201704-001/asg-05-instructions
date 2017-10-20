@@ -37,4 +37,4 @@ Example (doesn't show correct numbers, though!):
 * We'll assume that every birth results in a single child (no twins, triplets, etc.), that every child lives, and that the odds of having a boy is 50%.
 * You'll likely find it useful to look through section 4.10 (_Application: Random Numbers and Simulations_) in the text.
 * Taking a skim through the Random class in the Java 8 API would be useful. Some methods you'll find there are more readable than others, especially for this challenge.
-* You **must** use `Random randomGenerator = new Random(1);` when you are ready to test your code with Cucumber. This way, your results (if you've coded things correctly) will match what the tests are looking for. (Do you understand why?) Before this point, you **don't** need to use `Random(1)` - you should use `Random()`.
+* You **must** use `Random randomGenerator = new Random(1);` when you are ready to test your code with Cucumber. This way, your results (if you've coded things correctly) will match what the tests are looking for. (Do you understand why?) If you're **not** running the automated tests and just want to play with your code manually, you should use `Random()`.
