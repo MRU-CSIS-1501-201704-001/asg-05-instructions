@@ -27,7 +27,8 @@ _Your boss likes asterisks. A lot. So you decide to use asterisks to do the grap
 
 **Example 1**  
 
-    Assume that there were 10 students: 3 with Honours, 5 who passed, and 2 who failed. Then we would output the following:
+    Assume that there were 10 students: 3 with Honours, 5 who passed, and 2 who failed. 
+    Then we would output the following:
 
     GPA Distribution
 
@@ -37,7 +38,8 @@ _Your boss likes asterisks. A lot. So you decide to use asterisks to do the grap
 
 **Example 2**  
 
-    Assume that there were 10 students: 1 with Honours, 4 who passed, and 0 who failed. Then we would output the following:
+    Assume that there were 10 students: 1 with Honours, 4 who passed, and 0 who failed. 
+    Then we would output the following:
 
     GPA Distribution
 
