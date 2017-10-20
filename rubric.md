@@ -1,4 +1,4 @@
-# Problem Set 02 Rubric
+# Assignment 05 Rubric
 
 Many ideas and wording are taken from the method of grading put forward in Harvard's CS50 course.
 
@@ -10,10 +10,10 @@ Score = (8 x Correctness) + (8 x Design) + (3 x Style & Best Practice) + Attenti
 
 _"Does your code do what it was asked to do?"_
 
-- 5: All tests pass.
-- 4: At most two tests fail and no more than one per challenge.
-- 3: At most 4 tests fail and no more than one per challenge.
-- 2: All challenges run and pass at least one additional test.
+- 5: All challenges pass.
+- 4: Two challenges pass and another passes half the tests.
+- 3: One challenge passes and the others pass half their tests.
+- 2: One challenge passes at least half the tests and the others pass less than half their tests.
 - 1: One or more challenges don't run.
 - 0: No tests pass.
 
