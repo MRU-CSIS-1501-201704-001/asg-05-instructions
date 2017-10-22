@@ -12,9 +12,9 @@ _"Does your code do what it was asked to do?"_
 
 - 5: All challenges pass.
 - 4: Two challenges pass and another passes half the tests.
-- 3: One challenge passes and the others pass half their tests.
-- 2: One challenge passes at least half the tests and the others pass less than half their tests.
-- 1: One or more challenges don't run.
+- 3: Two challenges pass.
+- 2: One challenge passes.
+- 1: One test passes.
 - 0: No tests pass.
 
 ## Design
